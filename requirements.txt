@@ -25,7 +25,6 @@ chardet==3.0.4
 chromedriver==2.24.1
 clarifai==2.6.2
 Click==7.0
-client==0.0.1
 cloudpickle==0.7.0
 colorama==0.4.3
 configparser==4.0.2
