@@ -1,7 +1,6 @@
 import bs4
 import requests
 from bs4 import BeautifulSoup
-import time
 
 
 re = requests.get('http://nepalstock.com.np/marketdepthofcompany/2887')
